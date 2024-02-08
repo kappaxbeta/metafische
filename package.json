@@ -1,5 +1,5 @@
 {
-  "name": "Metafisch/e13",
+  "name": "Metafische13",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^20.11.16",
     "@types/react": "18.2.55",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.27.0",
