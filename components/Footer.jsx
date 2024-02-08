@@ -49,7 +49,7 @@ const Footer = () => (
                 src={social.url}
                 alt={social.name}
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
-              />
+              />''
               </a>
             ))}
           </div>
