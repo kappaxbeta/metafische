@@ -2,7 +2,7 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'The Magic',
   },
   {
     id: 'world-2',
@@ -56,7 +56,7 @@ export const insights = [
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metafisch/e',
+    title: '7 tips to easily master the dreaminess of the Metafisch/e',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },

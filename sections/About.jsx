@@ -27,13 +27,13 @@ const About = () => (
         like it's really real, you can feel what you feel in this M3tafisch/e
         world, because this is really the{' '}
         <span className="font-extrabold text-white">
-          madness of the Metafisch/e
+          Dreaminess of the Metafisch/e
         </span>{' '}
         of today, using emergin immersive{' '}
         <span className="font-extrabold text-white">VR</span> devices you can
         easily explore the Methfisch/e chill you want, turn your dreams into
         reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
+        <span className="font-extrabold text-white">explore</span> the dreaminess
         of the Metafisch/e by imagination and realness together
       </motion.p>
 
